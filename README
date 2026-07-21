@@ -1,0 +1,181 @@
+# 📊 HR Analytics Dashboard
+
+## 📌 Project Overview
+
+The HR Analytics Dashboard is an end-to-end data analytics project that analyzes employee data to provide insights into workforce performance, employee attrition, salary distribution, job satisfaction, and hiring trends. This project demonstrates data cleaning, analysis, visualization, and dashboard development using Excel, Python, SQL, and Power BI.
+
+---
+
+## 🎯 Project Objectives
+
+- Analyze employee count
+- Calculate attrition rate
+- Analyze salary distribution
+- Compare employees across departments
+- Analyze employee age groups
+- Analyze gender distribution
+- Measure employee experience
+- Evaluate job satisfaction
+- Analyze hiring trends
+- Build an interactive Power BI dashboard
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+- Python
+- Pandas
+- Matplotlib
+- SQL (MySQL)
+- Power BI
+- Git & GitHub
+
+---
+
+## 📂 Dataset
+
+The dataset contains *1000 employee records* with the following fields:
+
+- EmployeeID
+- Age
+- Gender
+- Department
+- JobRole
+- MonthlyIncome
+- YearsAtCompany
+- TotalWorkingYears
+- JobSatisfaction
+- Attrition
+- Education
+- MaritalStatus
+- HireDate
+
+---
+
+## 📋 Project Workflow
+
+### 1. Data Collection
+- Imported HR employee dataset
+
+### 2. Data Cleaning
+- Checked missing values
+- Removed duplicates
+- Verified data types
+- Created age groups
+
+### 3. Exploratory Data Analysis (EDA)
+- Employee Count
+- Attrition Rate
+- Average Salary
+- Department-wise Employee Count
+- Gender Distribution
+- Experience Analysis
+- Job Satisfaction Analysis
+- Hiring Trend Analysis
+
+### 4. Data Visualization
+Created charts using Python:
+- Employee Count by Department
+- Salary Distribution
+- Gender Distribution
+- Employee Age Groups
+- Attrition Analysis
+
+### 5. SQL Analysis
+Performed SQL queries for:
+- Employee Count
+- Average Salary
+- Department Analysis
+- Gender Distribution
+- Attrition Analysis
+- Experience Analysis
+
+### 6. Power BI Dashboard
+Built an interactive dashboard with:
+- KPI Cards
+- Attrition by Department
+- Salary Distribution
+- Employee Age Groups
+- Gender Distribution
+- Job Satisfaction
+- Hiring Trends
+- Interactive Filters
+
+---
+
+## 📊 Key Performance Indicators (KPIs)
+
+- Total Employees
+- Attrition Rate
+- Average Salary
+- Average Age
+- Average Experience
+
+---
+
+## 📁 Project Structure
+
+
+HR-Analytics-Dashboard
+│
+├── Data
+│   ├── HR_Analytics_Dataset.xlsx
+│   └── HR_Analytics.csv
+│
+├── Python
+│   └── HR_Analytics.ipynb
+│
+├── SQL
+│   └── hr_queries.sql
+│
+├── PowerBI
+│   └── HR_Analytics_Dashboard.pbix
+│
+├── Images
+│   └── Dashboard.png
+│
+└── README.md
+
+
+---
+
+## 📈 Dashboard Features
+
+- Employee Count KPI
+- Attrition Rate KPI
+- Average Salary KPI
+- Average Experience KPI
+- Department Analysis
+- Salary Distribution
+- Employee Age Groups
+- Gender Distribution
+- Job Satisfaction
+- Hiring Trends
+- Interactive Slicers
+
+---
+
+## 🚀 Future Improvements
+
+- Predict employee attrition using Machine Learning
+- Add employee performance analytics
+- Connect dashboard to a live SQL database
+- Automate data refresh
+
+---
+
+## 👨‍💻 Author
+
+*Sanjay M*
+
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
+
+GitHub: https://github.com/SanjayManivel
+
+
+LinkedIn: https://linkedin.com/in/Sanjay Manivel
+
+---
+
+## ⭐ If you found this project useful, please consider giving it a star!
